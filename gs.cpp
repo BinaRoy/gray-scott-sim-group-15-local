@@ -116,7 +116,7 @@ int main(int argc, char* argv[]) {
       Du = std::stod(argv[1]);
       Dv = std::stod(argv[2]);
       F = std::stod(argv[3]);
-      k = std::stod(argv[4]);
+a      k = std::stod(argv[4]);
       threshold = std::stod(argv[5]);
     }
        
@@ -141,3 +141,4 @@ int main(int argc, char* argv[]) {
 }
 // Eric
 // Here is Gloria testing
+// Jenny
