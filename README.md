@@ -1,7 +1,7 @@
 # Gray-Scott Reaction-Diffusion Simulation
 
 ## Project Overview
-This project simulates the Gray-Scott reaction-diffusion system, a model that describes the interaction of two chemical substances. It's implemented in C++ and uses CMake for building. The project also includes a suite of unit tests.
+This project simulates the Gray-Scott reaction-diffusion system, a model that describes the interaction of two chemical substances. It's implemented in C++ and uses CMake for building. The project also includes a suite of unit tests. We included the tests written by each of our group members, but only one is built by cmake. 
 
 ## Prerequisites
 - C++ Compiler (e.g., GCC, Clang)
