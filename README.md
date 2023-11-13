@@ -11,12 +11,12 @@ This project simulates the Gray-Scott reaction-diffusion system, a model that de
 ## Building the Application
 1. **Clone the Repository**: First, clone the repository to your local machine.
 
-git clone gray-scott-sim-group-15
+git clone git@github.com:MohitWarrier/gray-scott-sim-group-15.git
 cd gray-scott-sim-group-15
 
 2. **Go to the Build Directory**: This is where all build-related files will be stored.
 
-cd build
+mkdir build && cd build
 
 3. **Generate Build System**: Run CMake to create the build system.
 
