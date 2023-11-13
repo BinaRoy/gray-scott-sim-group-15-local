@@ -1,0 +1,28 @@
+name: C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: sudo apt-get update; sudo apt-get install -y cmake g++
+    - name: Create Build Directory
+      run: mkdir build && cd build
+    - name: Run CMake
+      run: cmake ..
+      working-directory: ./build
+    - name: Build Project
+      run: make
+      working-directory: ./build
+    - name: Run Tests
+      run: ./GrayScottSimulationTests
+      working-directory: ./build
