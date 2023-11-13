@@ -14,9 +14,9 @@ This project simulates the Gray-Scott reaction-diffusion system, a model that de
 git clone gray-scott-sim-group-15
 cd gray-scott-sim-group-15
 
-2. **Create a Build Directory**: This is where all build-related files will be stored.
+2. **Go to the Build Directory**: This is where all build-related files will be stored.
 
-mkdir build && cd build
+cd build
 
 3. **Generate Build System**: Run CMake to create the build system.
 
