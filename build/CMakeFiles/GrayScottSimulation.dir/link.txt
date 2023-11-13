@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/GrayScottSimulation.dir/gs.cpp.o -o GrayScottSimulation 

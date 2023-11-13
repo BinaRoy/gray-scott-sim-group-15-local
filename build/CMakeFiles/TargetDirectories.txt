@@ -1,4 +1,0 @@
-/mnt/c/Users/mohit/OneDrive/Documents/ProfessionalSkillsCW/gray-scott-sim-group-15/build/CMakeFiles/GrayScottSimulation.dir
-/mnt/c/Users/mohit/OneDrive/Documents/ProfessionalSkillsCW/gray-scott-sim-group-15/build/CMakeFiles/GrayScottSimulationTests.dir
-/mnt/c/Users/mohit/OneDrive/Documents/ProfessionalSkillsCW/gray-scott-sim-group-15/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/mohit/OneDrive/Documents/ProfessionalSkillsCW/gray-scott-sim-group-15/build/CMakeFiles/rebuild_cache.dir
