@@ -1,8 +1,6 @@
 //This is a test file
 
 //include test framework "googletest"
-
-//include test framework "googletest"
 #include "third_party/googletest/googletest/include/gtest/gtest.h"
 //include the gs model's head file
 #include "gs.h"
@@ -36,5 +34,4 @@ TEST(GSTest, MathematicalCorrectness) {
       EXPECT_DOUBLE_EQ(v[x][y], 0.0) ;
     }
   }
-
 }
